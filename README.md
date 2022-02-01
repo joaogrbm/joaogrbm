@@ -4,7 +4,7 @@
 
 - Estou trabalhando com PHP :elephant: 
 - Estudando Java e QA :heavy_check_mark:
-- Cursando Análise e Desenvolvimento de Sistemas na Unit - PE :student:
+- Cursando Análise e Desenvolvimento de Sistemas na Unit :student:
 
 <br/>
 <br/>
