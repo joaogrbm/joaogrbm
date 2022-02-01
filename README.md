@@ -2,9 +2,9 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=joaogrbm&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="João Gabriel Melo" align="right" />
 
-- :elephant: Estou trabalhando com PHP
-- :heavy_check_mark: Estudando Java e QA
-- :student: Cursando Análise e Desenvolvimento de Sistemas na Unit - PE
+- Estou trabalhando com PHP :elephant: 
+- Estudando Java e QA :heavy_check_mark:
+- Cursando Análise e Desenvolvimento de Sistemas na Unit - PE :student:
 
 <br/>
 <br/>
