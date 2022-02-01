@@ -1,4 +1,6 @@
-## Olá Mundo 👋:technologist:	
+## Olá Mundo 👋:technologist:
+
+  <img src="https://github-readme-stats.vercel.app/api?username=joaogrbm&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Suhail João Gabriel Melo" align="right" />
 
 - :elephant: Estou trabalhando com PHP
 - :heavy_check_mark: Estudando Java e QA
