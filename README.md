@@ -1,5 +1,5 @@
 ## Olá Mundo 👋:technologist:
- --- 
+
 
 - Estou trabalhando com PHP :elephant: 
 - Estudando Java e QA :heavy_check_mark::lady_beetle:	
@@ -11,6 +11,6 @@
 
  <img src="https://github-readme-stats.vercel.app/api?username=joaogrbm&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="João Gabriel Melo" />
 
-
+ --- 
 
 
