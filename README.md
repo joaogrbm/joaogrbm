@@ -9,4 +9,4 @@
 - Estudando Java e QA :heavy_check_mark:
 - Cursando Análise e Desenvolvimento de Sistemas na Unit :student:
 
- <img src="https://github-readme-stats.vercel.app/api?username=joaogrbm&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="João Gabriel Melo" align="right" />
+ <img src="https://github-readme-stats.vercel.app/api?username=joaogrbm&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="João Gabriel Melo" />
