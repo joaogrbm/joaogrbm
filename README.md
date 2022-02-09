@@ -3,7 +3,7 @@
 
 - Estou trabalhando com PHP :elephant: 
 - Estudando Java e QA :heavy_check_mark:
-- Cursando Análise e Desenvolvimento de Sistemas na Unit :student:
+- Cursando Análise e Desenvolvimento de Sistemas na Unit - Recife :student:
 
 ### Contato
 [![name](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-gabriel-melo-001/)
