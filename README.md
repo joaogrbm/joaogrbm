@@ -2,7 +2,7 @@
 
 
 - Estou trabalhando com PHP :elephant: 
-- Estudando Java e QA :heavy_check_mark::lady_beetle:	
+- Estudando Java :heavy_check_mark::lady_beetle:	
 - Cursando Análise e Desenvolvimento de Sistemas na Unit - Recife :student:
 
 ### Contato
