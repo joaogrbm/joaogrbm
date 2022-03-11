@@ -2,7 +2,7 @@
 
 
 - Estou trabalhando com PHP :elephant: 
-- Estudando Java :coffee:
+- E Estudando Java :coffee:
 - Cursando Análise e Desenvolvimento de Sistemas na Unit - Recife :student:
 
 ### Contato
